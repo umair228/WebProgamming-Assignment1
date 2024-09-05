@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+strong, b {
+    font-weight: bold;
+    color: #ff0000;
+}
+
+em, i {
+    font-style: italic;
+    color: #5b0029;
+}
+
+sup {
+    font-size: smaller;
+    vertical-align: super;
+    color: #006e19;
+}
+
+sub {
+    font-size: smaller;
+    vertical-align: sub;
+    color: #dc3545;
+}
+
+ins {
+    text-decoration: underline;
+    color: #28a745;
+}
+
+del {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+pre {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    color: #212529;
+}
+
+q {
+    quotes: "“" "”";
+    font-style: italic;
+    color: #4c5156;
+}
+
+blockquote {
+    margin: 20px;
+    padding: 10px 20px;
+    border-left: 5px solid #373838;
+    background-color: #e9ecef;
+    color: #000000;
+}
+
+blockquote cite {
+    display: block;
+    text-align: right;
+    font-size: smaller;
+    color: #6c757d;
+}
+
+.q9-about {
+    text-align: right;
+    margin: 20px;
+}
+
+.q9-about h3{
+    margin: 0;
+    font-size: smaller;
+}
+
+#btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#btn:hover {
+    background-color: #45a049;
+}
+
+#btn a {
+    color: white;
+    text-decoration: none;
+}
